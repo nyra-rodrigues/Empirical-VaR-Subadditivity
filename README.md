@@ -1,4 +1,4 @@
-# **VaR Subadditivity Failure — Empirical Analysis**
+# **VaR Subadditivity Failure & Empirical Analysis**
 
 This repository contains the research PDF and supporting documentation for our project **“VaR Subadditivity Failure: Empirical Backtesting Across Assets and Portfolio Styles.”**
 The work was conducted during Fall 2025 study term.
@@ -83,7 +83,7 @@ Using Kupiec tests and exceedance tracking, we identified conditions where VaR b
 
 * **QR**: best calibration + lowest average shortfall
 * **GJR**: conservative but still hit hard during jumps
-* **HS**: worst adaptation speed - highest severity during volatility spikes
+* **HS**: worst adaptation speed, highest severity during volatility spikes
 
 ---
 
