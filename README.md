@@ -10,7 +10,7 @@ The work was conducted during Fall 2025 study term.
 
 ## **Project Overview**
 
-Value-at-Risk (VaR) is a widely used risk measure in portfolio management, but it fails to satisfy *subadditivity*—meaning that the VaR of a combined portfolio can be **higher** than the sum of its individual components. This can undermine diversification and lead to miscalibrated capital requirements.
+Value-at-Risk (VaR) is a widely used risk measure in portfolio management, but it fails to satisfy *subadditivity*, meaning that the VaR of a combined portfolio can be **higher** than the sum of its individual components. This can undermine diversification and lead to miscalibrated capital requirements.
 
 Our project empirically investigates **when**, **how**, and **under what market conditions** VaR becomes unreliable or overly conservative.
 
@@ -83,7 +83,7 @@ Using Kupiec tests and exceedance tracking, we identified conditions where VaR b
 
 * **QR**: best calibration + lowest average shortfall
 * **GJR**: conservative but still hit hard during jumps
-* **HS**: worst adaptation speed — highest severity during volatility spikes
+* **HS**: worst adaptation speed - highest severity during volatility spikes
 
 ---
 
